@@ -1,0 +1,26 @@
+route_path,trip_frequency,route_avg_fare,route_total_revenue
+Indiranagar to Indiranagar,369,290.97,107368.0
+Indiranagar to Jayanagar,407,274.63,111773.0
+Indiranagar to Koramangala,351,302.04,106017.0
+Indiranagar to MG Road,383,294.16,112664.0
+Indiranagar to Whitefield,399,289.93,115683.0
+Jayanagar to Indiranagar,375,299.49,112307.0
+Jayanagar to Jayanagar,421,294.12,123824.0
+Jayanagar to Koramangala,406,294.06,119388.0
+Jayanagar to MG Road,386,298.9,115375.0
+Jayanagar to Whitefield,416,295.51,122932.0
+Koramangala to Indiranagar,403,292.56,117902.0
+Koramangala to Jayanagar,391,289.58,113224.0
+Koramangala to Koramangala,418,301.59,126065.0
+Koramangala to MG Road,384,296.9,114008.0
+Koramangala to Whitefield,409,298.48,122077.0
+MG Road to Indiranagar,396,288.93,114418.0
+MG Road to Jayanagar,435,290.77,126487.0
+MG Road to Koramangala,393,295.12,115984.0
+MG Road to MG Road,403,289.98,116863.0
+MG Road to Whitefield,410,291.37,119463.0
+Whitefield to Indiranagar,427,294.44,125727.0
+Whitefield to Jayanagar,387,281.56,108964.0
+Whitefield to Koramangala,406,297.74,120881.0
+Whitefield to MG Road,438,297.66,130377.0
+Whitefield to Whitefield,387,303.21,117343.0
